@@ -1,0 +1,14 @@
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\bin\Debug\net8.0\FizzBuzzWhiteboard.exe
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\bin\Debug\net8.0\FizzBuzzWhiteboard.deps.json
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\bin\Debug\net8.0\FizzBuzzWhiteboard.runtimeconfig.json
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\bin\Debug\net8.0\FizzBuzzWhiteboard.dll
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\bin\Debug\net8.0\FizzBuzzWhiteboard.pdb
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.AssemblyInfoInputs.cache
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.AssemblyInfo.cs
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.csproj.CoreCompileInputs.cache
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.dll
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\refint\FizzBuzzWhiteboard.dll
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.pdb
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.genruntimeconfig.cache
+D:\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\ref\FizzBuzzWhiteboard.dll
